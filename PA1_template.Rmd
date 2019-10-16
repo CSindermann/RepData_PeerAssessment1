@@ -2,7 +2,8 @@
 title: "Assignment_1"
 author: "Cornelia Sindermann"
 date: "15 10 2019"
-output: html_document
+output: md_document
+keep_md: true
 ---
 
 # Preparing Data  
